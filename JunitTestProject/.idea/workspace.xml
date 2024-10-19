@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4bf9960a-892e-4ea9-be32-9e33a1cfe854" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2nfc3Qm2CdTqXR2aAzozmaS9LbL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "JUnit.CalculatorTests.executor": "Run",
+    "JUnit.CalculatorTests.testAdd.executor": "Run",
+    "JUnit.CalculatorTests.testDivideByZero_Success.executor": "Run",
+    "JUnit.ContactManagerTest.executor": "Run",
+    "JUnit.ContactManagerTest.shouldCreateContactOnlyOnMac.executor": "Run",
+    "JUnit.ContactManagerTest.shouldCreateContactRepeatedly.executor": "Run",
+    "JUnit.ContactManagerTest.shouldCreateContactUsingCsvFileSource.executor": "Run",
+    "JUnit.ContactManagerTest.shouldCreateContactUsingCsvSource.executor": "Run",
+    "JUnit.ContactManagerTest.shouldCreateContactUsingMethodSource.executor": "Run",
+    "JUnit.ContactManagerTest.shouldCreateContactUsingValueSource.executor": "Run",
+    "JUnit.ContactManagerTest.shouldCreateContactonDevMachine.executor": "Debug",
+    "JUnit.ContactManagerTest.shouldThrowExceptionWhenFirstNameIsNull.executor": "Run",
+    "JUnit.ContactManagerTest.shouldThrowExceptionWhenFirstNameIsNullAndCheckMessage.executor": "Run",
+    "JUnit.ContactManagerTest.shouldThrowExceptionWhenLastNameIsNull.executor": "Run",
+    "JUnit.ContactManagerTest.shouldThrowExceptionWhenPhoneNumberIsNull.executor": "Run",
+    "JUnit.ContactManagerTest.testAddContact.executor": "Run",
+    "JUnit.CupTest.executor": "Run",
+    "JUnit.CupTest.getLiquidType.executor": "Run",
+    "JUnit.CupTest.getPercentFull.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "/Users/nilambhosale/NilamData/JunitTestProject/src/test/java/org/example",
+    "last_opened_file_path": "/Users/nilambhosale/NilamData/JunitTestProject/src/main/java/org/example",
+    "onboarding.tips.debug.path": "/Users/nilambhosale/NilamData/JunitTestProject/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/example" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.example" />
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ContactManagerTest">
+    <configuration name="ContactManagerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitTestProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.ContactManagerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContactManagerTest.shouldCreateContactUsingCsvFileSource" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitTestProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.ContactManagerTest" />
+      <option name="METHOD_NAME" value="shouldCreateContactUsingCsvFileSource(java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContactManagerTest.shouldCreateContactUsingCsvSource" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitTestProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.ContactManagerTest" />
+      <option name="METHOD_NAME" value="shouldCreateContactUsingCsvSource(java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContactManagerTest.shouldCreateContactUsingMethodSource" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitTestProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.ContactManagerTest" />
+      <option name="METHOD_NAME" value="shouldCreateContactUsingMethodSource(java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContactManagerTest.shouldCreateContactUsingValueSource" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitTestProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.ContactManagerTest" />
+      <option name="METHOD_NAME" value="shouldCreateContactUsingValueSource(java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ContactManagerTest.shouldCreateContactUsingCsvFileSource" />
+      <item itemvalue="JUnit.ContactManagerTest.shouldCreateContactUsingCsvSource" />
+      <item itemvalue="JUnit.ContactManagerTest.shouldCreateContactUsingMethodSource" />
+      <item itemvalue="JUnit.ContactManagerTest.shouldCreateContactUsingValueSource" />
+      <item itemvalue="JUnit.ContactManagerTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ContactManagerTest" />
+        <item itemvalue="JUnit.ContactManagerTest.shouldCreateContactUsingCsvFileSource" />
+        <item itemvalue="JUnit.ContactManagerTest.shouldCreateContactUsingCsvSource" />
+        <item itemvalue="JUnit.ContactManagerTest.shouldCreateContactUsingMethodSource" />
+        <item itemvalue="JUnit.ContactManagerTest.shouldCreateContactUsingValueSource" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bf9960a-892e-4ea9-be32-9e33a1cfe854" name="Changes" comment="" />
+      <created>1729367371335</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729367371335</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/example/ContactManagerTest.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/example/ContactManagerTest.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/test/java/org/example/ContactManagerTest.java</url>
+          <line>20</line>
+          <properties field="contactManager" class="org.example.ContactManagerTest" />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/org/example/ContactManagerTest.java</url>
+          <line>79</line>
+          <properties class="org.example.ContactManagerTest" method="shouldCreateContactOnlyOnMac">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
